@@ -1,0 +1,19 @@
+body{
+    background-color: #EAF6F6;;
+}
+
+hr{ /* .... dotte*/
+    border-style: dotted none none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+
+h1{/* heading level 1*/
+    color: #66BFBF;
+}
+
+h3{ /*heading level 3*/
+    color: #66BFBF;
+}
